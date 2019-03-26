@@ -1,0 +1,9 @@
+git add ÎÄ¼şÃû
+git add .
+
+
+git commit -m "×¢ÊÍ"
+
+
+
+git push git@github.com:shengshengyi/my_c_leetcode_easy.git
